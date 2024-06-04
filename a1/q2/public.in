@@ -1,0 +1,16 @@
+n a 6 7
+p a
+r a 2 2 2 4 .
+t a 2 2 .
+p a
+t a 3 4
+p a
+t a 3 3
+t a 4 1
+t a 2 2 x
+p a
+t a 5 1
+t a 2 1
+t a 5 3
+p a
+q
