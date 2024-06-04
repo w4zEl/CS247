@@ -1,0 +1,13 @@
+{
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "terminal.integrated.env.linux": {
+        "PATH": "${workspaceFolder}/tools:${env:PATH}"
+    },
+    "[plaintext]": {
+        "editor.suggest.showSnippets": false,
+        "editor.suggest.showWords": false,
+        "editor.acceptSuggestionOnCommitCharacter": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    }
+}
